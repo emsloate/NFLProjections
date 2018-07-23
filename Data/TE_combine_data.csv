@@ -1,0 +1,577 @@
+,Player,College,Height,Weight,Hand_size,Arm_length,40_time,Bench,Vert,Broad,Shuttle,Year
+0,1987,Robert Awalt,San Diego State,9.50,,28.0,108,4.45,4.45,4.45,4.45,1987
+1,1987,Gerald Bayless,Bowling Green (OH),9.25,,26.0,108,4.34,4.34,4.34,4.34,1987
+2,1987,Michael Clemons,William & Mary (VA),8.25,,29.0,108,4.42,4.42,4.42,4.42,1987
+3,1987,Scott Eccles,Eastern New Mexico,9.25,,31.0,116,4.20,4.20,4.20,4.20,1987
+4,1987,Ron Hall,Hawaii,10.00,,28.5,111,4.14,4.14,4.14,4.14,1987
+5,1987,William Harris,Bishop (TX),10.00,,28.0,107,4.43,4.43,4.43,4.43,1987
+6,1987,Rod Jones,Washington,10.00,,24.0,108,4.47,4.47,4.47,4.47,1987
+7,1987,Chris Kelley,Akron,10.00,,30.0,102,4.50,4.50,4.50,4.50,1987
+8,1987,Keith Mckeller,Jacksonville State (FL),10.00,,31.0,111,4.63,4.63,4.63,4.63,1987
+9,1987,Jeff Modesitt,Delaware,9.50,,30.5,112,4.48,4.48,4.48,4.48,1987
+10,1987,Albert Reese,Southern Methodist (TX),10.75,,28.5,107,4.42,4.42,4.42,4.42,1987
+11,1987,Jerry Reese,Illinois,9.25,,27.5,107,4.37,4.37,4.37,4.37,1987
+12,1987,Jim Riggs,Clemson,10.00,,25.5,100,4.34,4.34,4.34,4.34,1987
+13,1987,Brian Siverling,Penn State,10.00,,29.0,99,4.61,4.61,4.61,4.61,1987
+14,1987,Derek Tennell,UCLA,9.00,,32.0,117,4.61,4.61,4.61,4.61,1987
+15,1987,Arthur Wells,Grambling State (LA),9.50,,28.0,101,4.82,4.82,4.82,4.82,1987
+16,1987,Theo Young,Arkansas,9.00,,30.0,107,4.20,4.20,4.20,4.20,1987
+17,1988,Brad Beckman,Nebraska-Omaha,9.75,,33.0,115,4.25,4.25,4.25,4.25,1988
+18,1988,Pat Carter,Florida State,10.00,,29.0,98,4.77,4.77,4.77,4.77,1988
+19,1988,Jason Cooper,Duke,9.25,,,,9.99,9.99,9.99,9.99,1988
+20,1988,Kent Dean,Kansas State,8.75,,,,9.99,9.99,9.99,9.99,1988
+21,1988,Ferrell Edmunds,Maryland,10.50,,,,9.99,9.99,9.99,9.99,1988
+22,1988,Charles Henry,Miami (FL),10.50,,,,9.99,9.99,9.99,9.99,1988
+23,1988,Alex Higdon,Ohio State,10.00,,30.0,109,4.32,4.32,4.32,4.32,1988
+24,1988,Mike Hinnant,Temple,9.25,,29.0,100,9.99,9.99,9.99,9.99,1988
+25,1988,Keith Jackson,Oklahoma,9.50,,29.0,,4.59,4.59,4.59,4.59,1988
+26,1988,Steve Johnson,Virginia Tech,9.75,,30.5,116,4.38,4.38,4.38,4.38,1988
+27,1988,Brian Kinchen,Louisiana State,9.50,,33.5,106,4.31,4.31,4.31,4.31,1988
+28,1988,Keith Neubert,Nebraska,10.25,,31.5,108,4.52,4.52,4.52,4.52,1988
+29,1988,Walter Odom,Florida,8.75,,32.5,117,4.60,4.60,4.60,4.60,1988
+30,1988,Paul Pomfret,Penn State,10.00,,31.5,110,4.45,4.45,4.45,4.45,1988
+31,1988,Alfredo Roberts,Miami (FL),8.75,,29.5,,4.46,4.46,4.46,4.46,1988
+32,1988,Greg Scales,Wake Forest,9.25,,29.0,112,4.54,4.54,4.54,4.54,1988
+33,1988,Jim Thornton,Cal-State Fullerton,9.50,,36.0,123,4.31,4.31,4.31,4.31,1988
+34,1988,Robert Tyler,South Carolina State,10.00,,27.0,104,4.85,4.85,4.85,4.85,1988
+35,1988,Chris Verhulst,Cal State Chico,9.25,,,,9.99,9.99,9.99,9.99,1988
+36,1989,James Coley,Clemson,,,29.0,93,4.98,4.98,4.98,4.98,1989
+37,1989,Marv Cook,Iowa,,,29.0,103,4.20,4.20,4.20,4.20,1989
+38,1989,Howard Cross,Alabama,,,31.5,109,4.63,4.63,4.63,4.63,1989
+39,1989,Pat Davis,Syracuse,,,35.0,109,4.57,4.57,4.57,4.57,1989
+40,1989,John Duff,New Mexico,,,31.0,110,4.60,4.60,4.60,4.60,1989
+41,1989,Darryl Ingram,California,,,30.0,114,4.49,4.49,4.49,4.49,1989
+42,1989,Keith Jennings,Clemson,,,,,9.99,9.99,9.99,9.99,1989
+43,1989,Tim Jorden,Indiana,,,31.5,110,4.45,4.45,4.45,4.45,1989
+44,1989,Jeff Lindsley,Boise State,,,32.5,110,4.08,4.08,4.08,4.08,1989
+45,1989,Travis Mcneal,Tennessee-Chattanooga,,,37.0,119,4.57,4.57,4.57,4.57,1989
+46,1989,Todd Millikan,Nebraska,,,30.5,100,4.44,4.44,4.44,4.44,1989
+47,1989,Paul Reilly,Nebraska-Kearney,,,30.0,105,4.39,4.39,4.39,4.39,1989
+48,1989,Troy Sadowski,Georgia,,,32.5,117,4.24,4.24,4.24,4.24,1989
+49,1989,Wesley Walls,Mississippi,,,,110,9.99,9.99,9.99,9.99,1989
+50,1989,Greg Werner,DePauw (IN),,,33.0,103,4.48,4.48,4.48,4.48,1989
+51,1990,Jesse Anderson,Mississippi State,9.50,,35.0,118,4.20,4.20,4.20,4.20,1990
+52,1990,Charles Arbuckle,UCLA,10.00,,31.0,115,4.32,4.32,4.32,4.32,1990
+53,1990,Mike Bitterman,Maine,9.50,,,,9.99,9.99,9.99,9.99,1990
+54,1990,Mike Busch,Iowa State,10.00,,28.5,103,4.40,4.40,4.40,4.40,1990
+55,1990,Dave Colonna,Duke,9.88,,31.5,106,4.30,4.30,4.30,4.30,1990
+56,1990,Demetrius Davis,Nevada Las Vegas,9.38,,32.5,110,4.32,4.32,4.32,4.32,1990
+57,1990,Chad Fortune,Louisville,9.25,,33.5,116,4.48,4.48,4.48,4.48,1990
+58,1990,Scott Galbraith,Southern California,9.00,,30.0,108,4.60,4.60,4.60,4.60,1990
+59,1990,Eric Green,Liberty (VA),9.75,,,,9.99,9.99,9.99,9.99,1990
+60,1990,Ronnie Haliburton,Louisiana State,9.25,,33.0,114,4.06,4.06,4.06,4.06,1990
+61,1990,Jackie Harris,Louisiana-Monroe,10.00,,31.5,114,4.38,4.38,4.38,4.38,1990
+62,1990,Mark Hopkins,Central Michigan,8.75,,27.5,102,4.27,4.27,4.27,4.27,1990
+63,1990,Mike Jones,Texas A&M,9.00,,27.5,102,9.99,9.99,9.99,9.99,1990
+64,1990,Eugene Riley,Ball State (IN),10.50,,27.5,102,4.57,4.57,4.57,4.57,1990
+65,1990,Shannon Sharpe,Savannah State (GA),10.00,,34.0,122,4.55,4.55,4.55,4.55,1990
+66,1990,Derrick Walker,Michigan,9.88,,32.0,109,4.24,4.24,4.24,4.24,1990
+67,1990,Kurt Zuimulder,North Dakota,8.50,,27.5,104,4.40,4.40,4.40,4.40,1990
+68,1991,Corwin Anthony,UCLA,9.88,,33.0,117,4.76,4.76,4.76,4.76,1991
+69,1991,Scott Asman,West Chester (PA),9.50,,27.0,112,4.35,4.35,4.35,4.35,1991
+70,1991,Randy Austin,UCLA,9.50,,31.0,113,4.59,4.59,4.59,4.59,1991
+71,1991,Tim Bruton,Missouri,10.00,,,,9.99,9.99,9.99,9.99,1991
+72,1991,Keith Cash,Texas,9.50,,33.0,118,4.52,4.52,4.52,4.52,1991
+73,1991,Kerry Cash,Texas,9.50,,34.0,119,4.34,4.34,4.34,4.34,1991
+74,1991,Ben Coates,Livingstone (NC),10.00,,28.0,109,4.56,4.56,4.56,4.56,1991
+75,1991,Adrian Cooper,Oklahoma,9.63,,31.5,110,4.67,4.67,4.67,4.67,1991
+76,1991,Jerry Evans,Toledo,9.63,,28.0,99,4.46,4.46,4.46,4.46,1991
+77,1991,Andrew Glover,Grambling State (LA),9.88,,32.0,116,4.27,4.27,4.27,4.27,1991
+78,1991,Frank Griffin,Southern California,9.63,,28.0,101,4.73,4.73,4.73,4.73,1991
+79,1991,Frank Hartley,Illinois,10.63,,,,9.99,9.99,9.99,9.99,1991
+80,1991,Eric Ihnat,Marshall (WV),9.63,,30.5,110,4.53,4.53,4.53,4.53,1991
+81,1991,Rodney Jackson,Kentucky,10.00,,,,9.99,9.99,9.99,9.99,1991
+82,1991,James Jenkins,Rutgers,10.50,,,,9.99,9.99,9.99,9.99,1991
+83,1991,Reggie Johnson,Florida State,10.50,,34.5,117,9.99,9.99,9.99,9.99,1991
+84,1991,David Jones,Delaware State,10.38,,36.5,121,4.44,4.44,4.44,4.44,1991
+85,1991,Kirk Kirkpatrick,Florida,9.25,,29.5,107,4.35,4.35,4.35,4.35,1991
+86,1991,Bruce Mcgonnigal,Virginia,9.88,,,,9.99,9.99,9.99,9.99,1991
+87,1991,Dennis Ransom,Texas A&M,9.88,,30.5,111,4.56,4.56,4.56,4.56,1991
+88,1991,Lamonde Russell,Alabama,10.13,,36.0,121,3.99,3.99,3.99,3.99,1991
+89,1991,Chris Smith,Brigham Young,9.75,,26.5,101,4.34,4.34,4.34,4.34,1991
+90,1991,Matt Swinson,Maine,9.75,,,106,9.99,9.99,9.99,9.99,1991
+91,1991,Lionel Sykes,Pittsburgh,9.75,,28.0,102,4.49,4.49,4.49,4.49,1991
+92,1991,Franklin Thomas,Grambling State (LA),10.13,,31.0,106,4.77,4.77,4.77,4.77,1991
+93,1991,Frank Wainright,Northern Colorado,10.00,,31.5,112,4.30,4.30,4.30,4.30,1991
+94,1991,Duane Young,Michigan State,10.25,,24.5,99,4.88,4.88,4.88,4.88,1991
+95,1992,Tyji Armstrong,Mississippi,7.88,,29.5,107,4.54,4.54,4.54,4.54,1992
+96,1992,Turner Baur,Stanford,9.88,,30.5,111,4.30,4.30,4.30,4.30,1992
+97,1992,Kelly Blackwell,Texas Christian,10.00,,30.5,108,4.73,4.73,4.73,4.73,1992
+98,1992,Derek Brown,Notre Dame,10.50,,31.0,114,4.36,4.36,4.36,4.36,1992
+99,1992,Russ Campbell,Kansas State,9.38,,29.5,107,4.34,4.34,4.34,4.34,1992
+100,1992,Mark Chmura,Boston College,8.50,,30.5,105,4.16,4.16,4.16,4.16,1992
+101,1992,Rod Coleman,Indiana,8.38,,29.5,104,9.99,9.99,9.99,9.99,1992
+102,1992,Mark Dawkins,Army,10.25,,28.5,108,4.46,4.46,4.46,4.46,1992
+103,1992,Andrew Dees,Syracuse,9.00,,25.0,106,4.66,4.66,4.66,4.66,1992
+104,1992,George Deveney,Temple,9.13,,27.5,106,4.63,4.63,4.63,4.63,1992
+105,1992,Reggie Dwight,Troy (AL),9.25,,31.0,112,4.47,4.47,4.47,4.47,1992
+106,1992,Jeff Ellis,Ohio State,10.25,,28.5,103,4.36,4.36,4.36,4.36,1992
+107,1992,Patt Evans,Minnesota,9.88,,27.0,100,4.74,4.74,4.74,4.74,1992
+108,1992,Luke Fisher,East Carolina (NC),10.00,,,,9.99,9.99,9.99,9.99,1992
+109,1992,Victor Hall,Auburn,10.00,,,,9.99,9.99,9.99,9.99,1992
+110,1992,Todd Harrison,North Carolina State,9.63,,24.0,109,4.63,4.63,4.63,4.63,1992
+111,1992,Harold Heath,Jackson State (MS),10.25,,26.5,108,4.78,4.78,4.78,4.78,1992
+112,1992,Thomas Lafferty,UMass Lowell,9.13,,24.5,103,4.89,4.89,4.89,4.89,1992
+113,1992,Tony Lenseigne,Eastern Washington,8.88,,31.5,115,4.32,4.32,4.32,4.32,1992
+114,1992,Vince Marrow,Toledo,8.88,,32.0,112,4.66,4.66,4.66,4.66,1992
+115,1992,Deems May,North Carolina,10.25,,28.5,108,4.30,4.30,4.30,4.30,1992
+116,1992,Johnny Mitchell,Nebraska,9.13,,34.0,112,4.25,4.25,4.25,4.25,1992
+117,1992,Robert Mitchell,Grand Valley State (MI),9.25,,26.5,108,4.28,4.28,4.28,4.28,1992
+118,1992,Dave Moore,Pittsburgh,9.75,,27.0,103,4.39,4.39,4.39,4.39,1992
+119,1992,Aaron Pierce,Washington,9.13,,35.5,115,4.44,4.44,4.44,4.44,1992
+120,1992,Alfred Pupunu,Weber State (UT),10.13,,32.5,115,4.47,4.47,4.47,4.47,1992
+121,1992,Eric Seamon,Pittsburgh,10.13,,24.0,102,4.70,4.70,4.70,4.70,1992
+122,1992,Kevin Smith,UCLA,8.88,,32.0,113,4.44,4.44,4.44,4.44,1992
+123,1992,Robert Taylor,Mississippi College,9.38,,29.0,105,5.09,5.09,5.09,5.09,1992
+124,1992,Jeff Thomason,Oregon,9.63,,32.0,111,4.41,4.41,4.41,4.41,1992
+125,1992,Craig Thompson,North Carolina A&T,9.38,,26.5,98,4.79,4.79,4.79,4.79,1992
+126,1992,Todd Walker,Indiana,9.88,,28.5,100,4.62,4.62,4.62,4.62,1992
+127,1992,Derek Ware,Central Oklahoma,9.50,,34.5,117,4.24,4.24,4.24,4.24,1992
+128,1992,Fred Washington,Mississippi Valley State,9.00,,,,9.99,9.99,9.99,9.99,1992
+129,1992,Chris Welch,Gardner-Webb (NC),9.13,,28.5,107,4.79,4.79,4.79,4.79,1992
+130,1993,Fred Baxter,Auburn,9.50,,29.5,109,4.49,4.49,4.49,4.49,1993
+131,1993,Coleman Bell,Miami (FL),8.88,,30.0,109,4.52,4.52,4.52,4.52,1993
+132,1993,Don Chaney,South Carolina,9.00,,33.0,117,4.24,4.24,4.24,4.24,1993
+133,1993,Rob Coons,Pittsburgh,10.00,,29.0,119,4.34,4.34,4.34,4.34,1993
+134,1993,Alan Cross,Iowa,9.13,,30.0,109,4.47,4.47,4.47,4.47,1993
+135,1993,Steve Dark,Middle Tennessee State,9.38,,34.0,118,4.21,4.21,4.21,4.21,1993
+136,1993,Troy Drayton,Penn State,10.25,,31.5,108,4.36,4.36,4.36,4.36,1993
+137,1993,David Frisch,Colorado State,10.50,,31.0,122,4.56,4.56,4.56,4.56,1993
+138,1993,Chris Gedney,Syracuse,9.38,,30.5,110,4.39,4.39,4.39,4.39,1993
+139,1993,Mitch Lyons,Michigan State,10.63,,26.0,103,4.56,4.56,4.56,4.56,1993
+140,1993,Tony Mcgee,Michigan,10.63,,33.5,120,4.20,4.20,4.20,4.20,1993
+141,1993,Joey Mickey,Oklahoma,10.25,,,,9.99,9.99,9.99,9.99,1993
+142,1993,Irv Smith,Notre Dame,9.50,,31.5,118,4.46,4.46,4.46,4.46,1993
+143,1993,Darren Stohlmann,Wayne State (NE),8.88,,35.5,122,4.02,4.02,4.02,4.02,1993
+144,1993,Marty Thompson,Frenso State (CA),10.38,,29.0,112,9.99,9.99,9.99,9.99,1993
+145,1993,Clarence Williams,Washington State,9.50,,35.0,114,4.34,4.34,4.34,4.34,1993
+146,1994,Bradford Banta,Southern California,9.25,,30.0,107,4.53,4.53,4.53,4.53,1994
+147,1994,Harold Bishop,Louisiana State,9.63,,33.0,113,4.59,4.59,4.59,4.59,1994
+148,1994,Rickey Brady,Oklahoma,10.38,,34.0,115,4.39,4.39,4.39,4.39,1994
+149,1994,John Burke,Virginia Tech,9.25,,26.5,105,4.59,4.59,4.59,4.59,1994
+150,1994,Brett Carolan,Washington State,9.50,,,,9.99,9.99,9.99,9.99,1994
+151,1994,Dwayne Carswell,Liberty (VA),9.38,,26.5,102,4.50,4.50,4.50,4.50,1994
+152,1994,Dwayne Chandler,Kansas,9.38,,28.5,119,9.99,9.99,9.99,9.99,1994
+153,1994,Carlester Crumpler,East Carolina (NC),10.13,,,,9.99,9.99,9.99,9.99,1994
+154,1994,Tracy Greene,Grambling State (LA),10.00,,22.5,105,4.87,4.87,4.87,4.87,1994
+155,1994,Ross Hales,Indiana,10.00,,28.5,117,4.50,4.50,4.50,4.50,1994
+156,1994,Kurt Haws,Utah,10.50,,31.5,113,4.37,4.37,4.37,4.37,1994
+157,1994,Lonnie Johnson,Florida State,10.13,,35.0,114,4.41,4.41,4.41,4.41,1994
+158,1994,Andrew Jordan,Western Carolina,9.63,,28.0,106,4.69,4.69,4.69,4.69,1994
+159,1994,Aaron Laing,New Mexico State,9.25,,30.5,112,4.55,4.55,4.55,4.55,1994
+160,1994,Roderick Lewis,Arizona,10.25,,33.5,119,4.56,4.56,4.56,4.56,1994
+161,1994,Shannon Mitchell,Georgia,9.88,,28.0,101,4.43,4.43,4.43,4.43,1994
+162,1994,Aaron Mundy,Virginia,9.75,,30.5,115,4.63,4.63,4.63,4.63,1994
+163,1994,Walter Rasby,Wake Forest,9.13,,32.5,118,4.62,4.62,4.62,4.62,1994
+164,1994,Willie Stubbins,Texas Southern,10.38,,28.5,109,5.12,5.12,5.12,5.12,1994
+165,1994,Aubrey Thompson,Utah State,9.13,,27.5,114,4.58,4.58,4.58,4.58,1994
+166,1995,Eric Alford,Nebraska,9.50,,,,,,,,1995
+167,1995,Jamie Asher,Louisville,10.00,,31.5,113,4.16,4.16,4.16,4.16,1995
+168,1995,Eric Bjornson,Washington,9.63,,,,9.99,9.99,9.99,9.99,1995
+169,1995,Kyle Brady,Penn State,9.50,,35.0,120,4.21,4.21,4.21,4.21,1995
+170,1995,Mark Bruener,Washington,9.75,,34.0,116,4.19,4.19,4.19,4.19,1995
+171,1995,Jeremy Burkett,Colorado State,8.25,,33.5,112,4.21,4.21,4.21,4.21,1995
+172,1995,Byron Chamberlain,Wayne State (NE),9.50,,33.5,110,4.18,4.18,4.18,4.18,1995
+173,1995,Tony Cline,Stanford,10.13,,36.5,121,4.25,4.25,4.25,4.25,1995
+174,1995,Tyrone Davis,Virginia,9.00,,,,9.99,9.99,9.99,9.99,1995
+175,1995,Greg Delong,North Carolina,9.88,,26.0,98,4.41,4.41,4.41,4.41,1995
+176,1995,Ken Dilger,Illinois,10.13,,33.5,112,4.19,4.19,4.19,4.19,1995
+177,1995,Christian Fauria,Colorado,10.00,,,,9.99,9.99,9.99,9.99,1995
+178,1995,Lamont Frazier,Missouri,9.63,,29.0,102,4.66,4.66,4.66,4.66,1995
+179,1995,Kevin Hickman,Navy,9.00,,,,9.99,9.99,9.99,9.99,1995
+180,1995,Marcus Hinton,Alcorn State (MS),9.50,,29.0,94,4.68,4.68,4.68,4.68,1995
+181,1995,Oscar Mcbride,Notre Dame,10.25,,29.5,104,4.54,4.54,4.54,4.54,1995
+182,1995,James Mckeehan,Texas A&M,9.75,,29.0,107,4.31,4.31,4.31,4.31,1995
+183,1995,Pete Mitchell,Boston College,10.00,,29.0,112,4.19,4.19,4.19,4.19,1995
+184,1995,Joe Planansky,Chadron State (NE),9.38,,31.0,116,4.28,4.28,4.28,4.28,1995
+185,1995,Andre President,Angelo State (TX),9.38,,28.5,103,4.45,4.45,4.45,4.45,1995
+186,1995,David Sloan,New Mexico,10.63,,31.0,115,4.29,4.29,4.29,4.29,1995
+187,1995,Kendall Watkins,Mississippi State,10.13,,25.5,98,4.82,4.82,4.82,4.82,1995
+188,1996,Marco Battaglia,Rutgers,9.63,,33.5,110,4.17,4.17,4.17,4.17,1996
+189,1996,Jamara Bell,Clinch Valley (VA),10.00,,29.0,112,4.71,4.71,4.71,4.71,1996
+190,1996,Rickey Dudley,Ohio State,10.13,,,,9.99,9.99,9.99,9.99,1996
+191,1996,Jason Dunn,Eastern Kentucky,9.63,,40.0,127,4.25,4.25,4.25,4.25,1996
+192,1996,Andy Fuller,Auburn,9.75,,28.5,105,4.71,4.71,4.71,4.71,1996
+193,1996,Jarius Hayes,North Alabama,10.00,,35.0,,9.99,9.99,9.99,9.99,1996
+194,1996,Tony Johnson,Alabama,9.88,,27.5,108,4.46,4.46,4.46,4.46,1996
+195,1996,Johnny Mcwilliams,Southern California,9.75,,34.5,112,4.24,4.24,4.24,4.24,1996
+196,1996,Bobby Neely,Virginia,11.00,,30.0,109,4.39,4.39,4.39,4.39,1996
+197,1996,Lovett Purnell,West Virginia,9.63,,29.0,,4.31,4.31,4.31,4.31,1996
+198,1996,Jay Riemersma,Michigan,10.00,,,,9.99,9.99,9.99,9.99,1996
+199,1996,Brian Roche,San Jose State,10.25,,28.0,,4.15,4.15,4.15,4.15,1996
+200,1996,Scott Slutzker,Iowa,10.25,,27.5,110,9.99,9.99,9.99,9.99,1996
+201,1997,John Allred,Southern California,10.00,,32.0,112,4.32,4.32,4.32,4.32,1997
+202,1997,Pete Chryplewicz,Notre Dame,10.00,,30.5,111,4.32,4.32,4.32,4.32,1997
+203,1997,Greg Clark,Stanford,10.13,,31.0,115,4.12,4.12,4.12,4.12,1997
+204,1997,Pat Fitzgerald,Texas,9.25,,29.5,107,4.25,4.25,4.25,4.25,1997
+205,1997,Tony Gonzalez,California,9.38,,33.5,116,4.06,4.06,4.06,4.06,1997
+206,1997,Patrick Hape,Alabama,9.25,,33.0,112,4.15,4.15,4.15,4.15,1997
+207,1997,Mitch Jacoby,Northern Illinois,10.50,,32.5,112,4.50,4.50,4.50,4.50,1997
+208,1997,Bryan Jennings,Virginia Tech,9.63,,29.5,107,4.54,4.54,4.54,4.54,1997
+209,1997,Damon Jones,Southern Illinois,10.13,,33.5,116,4.44,4.44,4.44,4.44,1997
+210,1997,Freddie Jones,North Carolina,9.75,,,,9.99,9.99,9.99,9.99,1997
+211,1997,David Lafleur,Louisiana State,11.50,,30.5,112,9.99,9.99,9.99,9.99,1997
+212,1997,Ronald Leshinski,Army,10.50,,31.5,108,4.29,4.29,4.29,4.29,1997
+213,1997,Chad Lewis,Brigham Young,9.50,,31.0,119,4.47,4.47,4.47,4.47,1997
+214,1997,Kris Mangum,Mississippi,9.50,,32.0,112,4.29,4.29,4.29,4.29,1997
+215,1997,Itula Mili,Brigham Young,9.63,,,,9.99,9.99,9.99,9.99,1997
+216,1997,Ed Perry,James Madison (VA),10.00,,33.5,118,4.07,4.07,4.07,4.07,1997
+217,1997,O J Santiago,Kent State (OH),10.25,,38.5,125,4.38,4.38,4.38,4.38,1997
+218,1997,Nicky Savoie,Louisiana State,9.75,,29.5,112,4.10,4.10,4.10,4.10,1997
+219,1997,Josh Wilcox,Oregon,9.50,,30.5,108,4.54,4.54,4.54,4.54,1997
+220,1998,Stephen Alexander,Oklahoma,9.50,,35.5,122,4.09,4.09,4.09,4.09,1998
+221,1998,Jon Blackman,Purdue,10.13,,30.5,112,4.39,4.39,4.39,4.39,1998
+222,1998,Josh Bradley,Louisiana Tech,9.88,,26.5,94,4.45,4.45,4.45,4.45,1998
+223,1998,Jeremy Brigham,Washington,9.75,,30.5,109,4.25,4.25,4.25,4.25,1998
+224,1998,Mike Brown,Texas Christian,10.13,,29.0,111,4.32,4.32,4.32,4.32,1998
+225,1998,Cameron Cleeland,Washington,10.88,,33.5,107,4.15,4.15,4.15,4.15,1998
+226,1998,Chris Conrad,Frenso State (CA),10.63,,24.5,92,4.71,4.71,4.71,4.71,1998
+227,1998,Chris Fontenot,McNeese State (LA),9.88,,36.0,123,4.56,4.56,4.56,4.56,1998
+228,1998,Lamont Hall,Clemson,9.88,,28.5,111,4.46,4.46,4.46,4.46,1998
+229,1998,Josh Keur,Michigan State,10.13,,,,9.99,9.99,9.99,9.99,1998
+230,1998,Alonzo Mayes,Oklahoma State,9.13,,,,9.99,9.99,9.99,9.99,1998
+231,1998,Rodrick Rutledge,Alabama,10.88,,,,9.99,9.99,9.99,9.99,1998
+232,1998,Blake Spence,Oregon,9.75,,28.0,106,4.35,4.35,4.35,4.35,1998
+233,1998,Mark Thomas,North Carolina State,9.63,,34.0,109,4.47,4.47,4.47,4.47,1998
+234,1998,Roland Williams,Syracuse,10.00,,36.5,120,4.21,4.21,4.21,4.21,1998
+235,1999,Cuncho Brown,Penn State,,,31.5,110,4.44,4.44,4.44,4.44,1999
+236,1999,Larry Brown,Georgia,7.88,,34.0,113,4.50,4.50,4.50,4.50,1999
+237,1999,Dan Campbell,Texas A&M,9.25,,36.0,112,4.07,4.07,4.07,4.07,1999
+238,1999,Desmond Clark,Wake Forest,9.88,,31.0,112,4.35,4.35,4.35,4.35,1999
+239,1999,Alphonso Collins,East Carolina (NC),,,32.5,108,4.41,4.41,4.41,4.41,1999
+240,1999,James Dearth,Tarleton State (TX),10.50,,29.5,107,4.57,4.57,4.57,4.57,1999
+241,1999,Rufus French,Mississippi,8.25,,32.0,104,4.50,4.50,4.50,4.50,1999
+242,1999,Mike Grieb,UCLA,10.50,,27.0,107,4.45,4.45,4.45,4.45,1999
+243,1999,Steve Heiden,San Diego State,,,32.0,121,4.11,4.11,4.11,4.11,1999
+244,1999,Sheldon Jackson,Nebraska,9.25,,30.5,103,4.47,4.47,4.47,4.47,1999
+245,1999,Love Jefferson,Washington State,10.13,,33.0,108,4.61,4.61,4.61,4.61,1999
+246,1999,John Jennings,Belhaven (MS),8.38,,29.0,113,4.53,4.53,4.53,4.53,1999
+247,1999,Reggie Kelly,Mississippi State,9.13,,32.0,,9.99,9.99,9.99,9.99,1999
+248,1999,Jim Kleinsasser,North Dakota,9.88,,34.5,112,4.33,4.33,4.33,4.33,1999
+249,1999,Derek Lewis,Texas,8.63,,27.5,104,4.26,4.26,4.26,4.26,1999
+250,1999,Mike Lucky,Arizona,,,29.0,108,4.38,4.38,4.38,4.38,1999
+251,1999,John Lumpkin,Ohio State,10.25,,34.5,111,9.99,9.99,9.99,9.99,1999
+252,1999,Devon Smith,North Carolina,,,29.5,101,4.46,4.46,4.46,4.46,1999
+253,1999,Derrick Spiller,Texas A&M,,,34.0,115,4.16,4.16,4.16,4.16,1999
+254,1999,Justin Swift,Kansas State,9.63,,33.0,111,4.15,4.15,4.15,4.15,1999
+255,1999,Jerame Tuman,Michigan,10.38,,33.0,107,4.20,4.20,4.20,4.20,1999
+256,1999,Brian Waters,North Texas,9.75,,32.0,113,4.63,4.63,4.63,4.63,1999
+257,1999,Jed Weaver,Oregon,9.38,,31.0,106,4.17,4.17,4.17,4.17,1999
+258,2000,Kyle Allamon,Texas Tech,9.88,,29.0,104,4.49,4.49,4.49,4.49,2000
+259,2000,Anthony Becht,West Virginia,10.50,,33.5,123,4.08,4.08,4.08,4.08,2000
+260,2000,Casey Crawford,Virginia,9.50,,,,9.99,9.99,9.99,9.99,2000
+261,2000,JoeDean Davenport,Arkansas,10.25,,30.0,108,4.67,4.67,4.67,4.67,2000
+262,2000,Zeron Flemister,Iowa,9.38,,37.0,116,4.16,4.16,4.16,4.16,2000
+263,2000,Jason Gavadza,Kent State (OH),,,32.5,113,4.30,4.30,4.30,4.30,2000
+264,2000,John Jones,Indiana (PA),10.00,,38.5,125,4.43,4.43,4.43,4.43,2000
+265,2000,Terrance McCaskey,Mississippi State,,,29.0,101,9.99,9.99,9.99,9.99,2000
+266,2000,Carlos Nuno,Brigham Young,10.00,,28.0,106,9.99,9.99,9.99,9.99,2000
+267,2000,Dave Stachelski,Boise State,9.50,,38.0,115,4.14,4.14,4.14,4.14,2000
+268,2000,Jay Tant,Northwestern,10.38,,,,9.99,9.99,9.99,9.99,2000
+269,2000,James Whalen,Kentucky,10.00,,31.0,110,4.22,4.22,4.22,4.22,2000
+270,2000,Austin Wheatley,Iowa,10.50,,32.5,121,4.18,4.18,4.18,4.18,2000
+271,2001,Billy Baber,Virginia,9.50,,33.0,106,4.19,4.19,4.19,4.19,2001
+272,2001,Sean Brewer,San Jose State,9.50,,36.0,117,4.18,4.18,4.18,4.18,2001
+273,2001,Elliott Carson,Vanderbilt,9.50,,36.0,115,4.21,4.21,4.21,4.21,2001
+274,2001,Alge Crumpler,North Carolina,10.50,,34.0,112,4.43,4.43,4.43,4.43,2001
+275,2001,Dauntae' Finger,North Carolina,,,33.5,103,4.59,4.59,4.59,4.59,2001
+276,2001,Antoine Harris,Southern California,9.50,,26.0,,9.99,9.99,9.99,9.99,2001
+277,2001,Todd Heap,Arizona State,9.50,,32.0,,9.99,9.99,9.99,9.99,2001
+278,2001,Jabari Holloway,Notre Dame,11.00,,38.5,113,4.40,4.40,4.40,4.40,2001
+279,2001,Jevaris Johnson,Georgia,8.50,,29.0,,9.99,9.99,9.99,9.99,2001
+280,2001,Arther Love,South Carolina State,8.50,,36.0,,9.99,9.99,9.99,9.99,2001
+281,2001,Brandon Manumaleuna,Arizona,10.00,,30.0,106,4.26,4.26,4.26,4.26,2001
+282,2001,Shad Meier,Kansas State,10.25,,34.0,113,4.15,4.15,4.15,4.15,2001
+283,2001,Brian Natkin,Texas-El Paso,9.50,,27.0,98,4.59,4.59,4.59,4.59,2001
+284,2001,Dan O'Leary,Notre Dame,,,32.0,113,4.31,4.31,4.31,4.31,2001
+285,2001,Ryan Prince,Weber State (UT),9.50,,31.0,102,4.45,4.45,4.45,4.45,2001
+286,2001,Marcellus Rivers,Oklahoma State,8.50,,32.5,113,4.25,4.25,4.25,4.25,2001
+287,2001,Mike Roberg,Idaho,9.50,,34.5,117,4.40,4.40,4.40,4.40,2001
+288,2001,Russell Stewart,Stanford,9.50,,28.5,106,4.30,4.30,4.30,4.30,2001
+289,2001,Tony Stewart,Penn State,10.00,,35.5,109,4.40,4.40,4.40,4.40,2001
+290,2001,Boo Williams,Arkansas,9.00,,35.5,119,4.33,4.33,4.33,4.33,2001
+291,2002,Mark Anelli,Wisconsin,10.13,,,,,,,,2002
+292,2002,Chris Baker,Michigan State,9.25,,35.0,111,9.99,9.99,9.99,9.99,2002
+293,2002,Mike Banks,Iowa State,9.13,,31.5,104,9.99,9.99,9.99,9.99,2002
+294,2002,Dwayne Blakley,Missouri,8.75,,32.5,107,4.29,4.29,4.29,4.29,2002
+295,2002,Daniel Graham,Colorado,10.00,,36.0,116,9.99,9.99,9.99,9.99,2002
+296,2002,Ryan Hannam,Northern Iowa,9.00,,30.5,110,4.21,4.21,4.21,4.21,2002
+297,2002,Keith Heinrich,Sam Houston State (TX),10.75,,35.0,119,4.10,4.10,4.10,4.10,2002
+298,2002,Doug Jolley,Brigham Young,9.25,,38.0,114,4.18,4.18,4.18,4.18,2002
+299,2002,Terry Jones,Alabama,9.50,,33.5,110,4.43,4.43,4.43,4.43,2002
+300,2002,Chris Luzar,Virginia,9.75,,32.5,113,4.17,4.17,4.17,4.17,2002
+301,2002,Ivory McCoy,Michigan State,,,35.0,113,4.24,4.24,4.24,4.24,2002
+302,2002,Randy McMichael,Georgia,9.25,,29.5,111,4.28,4.28,4.28,4.28,2002
+303,2002,Josh Norman,Oklahoma,9.25,,32.0,115,4.23,4.23,4.23,4.23,2002
+304,2002,John Owens,Notre Dame,9.50,,38.5,115,9.99,9.99,9.99,9.99,2002
+305,2002,Justin Peelle,Oregon,10.00,,29.0,109,4.29,4.29,4.29,4.29,2002
+306,2002,Robert Royal,Louisiana State,,,31.0,114,4.27,4.27,4.27,4.27,2002
+307,2002,Derek Smith,Kentucky,9.00,,28.5,109,4.38,4.38,4.38,4.38,2002
+308,2002,Tim Stratton,Purdue,9.00,,27.0,100,9.99,9.99,9.99,9.99,2002
+309,2002,Tracey Wistrom,Nebraska,10.13,,33.5,113,4.10,4.10,4.10,4.10,2002
+310,2003,Sean Berton,North Carolina State,9.75,,31.0,107,4.35,4.35,4.35,4.35,2003
+311,2003,Dallas Clark,Iowa,10.13,,37.5,123,9.99,9.99,9.99,9.99,2003
+312,2003,Dan Curley,Eastern Washington,9.25,,35.5,118,4.44,4.44,4.44,4.44,2003
+313,2003,Zach Hilton,North Carolina,10.00,,35.0,112,4.29,4.29,4.29,4.29,2003
+314,2003,Robert Johnson,Auburn,9.38,,33.5,115,4.42,4.42,4.42,4.42,2003
+315,2003,Bennie Joppru,Michigan,10.00,,30.5,109,9.99,9.99,9.99,9.99,2003
+316,2003,Donald Lee,Mississippi State,9.50,,39.0,120,4.37,4.37,4.37,4.37,2003
+317,2003,Spencer Nead,Brigham Young,9.50,,28.5,102,4.24,4.24,4.24,4.24,2003
+318,2003,Mike Pinkard,Arizona State,9.38,,35.0,,9.99,9.99,9.99,9.99,2003
+319,2003,Gabe Reid,Brigham Young,9.75,,37.0,119,4.31,4.31,4.31,4.31,2003
+320,2003,Mike Seidman,UCLA,9.75,,,,9.99,9.99,9.99,9.99,2003
+321,2003,Visanthe Shiancoe,Morgan State (MD),10.25,,39.5,120,4.28,4.28,4.28,4.28,2003
+322,2003,L.J. Smith,Rutgers,10.38,,37.0,122,4.18,4.18,4.18,4.18,2003
+323,2003,Trent Smith,Oklahoma,9.38,,35.5,118,4.30,4.30,4.30,4.30,2003
+324,2003,Erick Streelman,Nevada,,,30.0,109,4.40,4.40,4.40,4.40,2003
+325,2003,Ray Thomas,Wake Forest,9.50,,31.0,113,4.52,4.52,4.52,4.52,2003
+326,2003,Aaron Walker,Florida,10.25,,33.5,115,4.27,4.27,4.27,4.27,2003
+327,2003,Kevin Ware,Washington,9.50,,34.0,110,4.47,4.47,4.47,4.47,2003
+328,2003,Jason Witten,Tennessee,9.88,,31.0,,9.99,9.99,9.99,9.99,2003
+329,2003,George Wrighster,Oregon,10.00,,34.5,115,9.99,9.99,9.99,9.99,2003
+330,2003,Doug Zeigler,Mississippi,,,,,9.99,9.99,9.99,9.99,2003
+331,2004,Courtney Anderson,San Jose State,,,30.0,106,4.54,4.54,4.54,4.54,2004
+332,2004,Bobby Blizzard,North Carolina,10.13,,,102,9.99,9.99,9.99,9.99,2004
+333,2004,Chris Cooley,Utah State,9.63,,33.0,115,4.19,4.19,4.19,4.19,2004
+334,2004,Jeff Dugan,Maryland,,,28.0,109,4.40,4.40,4.40,4.40,2004
+335,2004,Tim Euhus,Oregon State,9.50,,34.5,115,4.13,4.13,4.13,4.13,2004
+336,2004,JohnPaul Foschi,Georgia Tech,10.13,,30.5,111,4.35,4.35,4.35,4.35,2004
+337,2004,Michael Gaines,Central Florida,9.75,,33.0,109,4.18,4.18,4.18,4.18,2004
+338,2004,Ronnie Ghent,Louisville,9.13,,27.5,103,4.50,4.50,4.50,4.50,2004
+339,2004,Ben Hartsock,Ohio State,9.75,,35.0,117,3.98,3.98,3.98,3.98,2004
+340,2004,Nate Lawrie,Yale,,,34.0,117,4.12,4.12,4.12,4.12,2004
+341,2004,Sean McHugh,Penn State,9.50,,29.0,115,4.09,4.09,4.09,4.09,2004
+342,2004,Jason Peters,Arkansas,9.38,,29.0,115,4.75,4.75,4.75,4.75,2004
+343,2004,Brett Pierce,Stanford,,,27.0,103,4.39,4.39,4.39,4.39,2004
+344,2004,Sean Ryan,Boston College,10.38,,32.5,115,9.99,9.99,9.99,9.99,2004
+345,2004,Mike Walker,Minnesota-Morris,9.38,,30.0,106,4.35,4.35,4.35,4.35,2004
+346,2004,Ben Watson,Georgia,10.13,,35.5,123,4.11,4.11,4.11,4.11,2004
+347,2004,Keith Willis,Virginia Tech,9.13,,,114,4.44,4.44,4.44,4.44,2004
+348,2004,Kris Wilson,Pittsburgh,,,35.0,119,4.13,4.13,4.13,4.13,2004
+349,2004,Kellen Winslow,Miami (FL),9.88,,,120,9.99,9.99,9.99,9.99,2004
+350,2005,Billy Bajema,Oklahoma State,9.88,,31.5,111,4.25,4.25,4.25,4.25,2005
+351,2005,Adam Bergen,Lehigh (PA),10.25,,38.0,118,4.10,4.10,4.10,4.10,2005
+352,2005,Jerome Collins,Notre Dame,9.38,,,114,9.99,9.99,9.99,9.99,2005
+353,2005,Jonas Crafts,Texas-El Paso,9.50,,,,9.99,9.99,9.99,9.99,2005
+354,2005,Tony Curtis,Portland State (OR),9.75,,,115,9.99,9.99,9.99,9.99,2005
+355,2005,Joel Dreessen,Colorado State,9.25,,36.0,111,4.01,4.01,4.01,4.01,2005
+356,2005,Kelly Griffeth,Fort Hays State (KS),9.63,,28.0,101,4.27,4.27,4.27,4.27,2005
+357,2005,Alex Holmes,Southern California,10.63,,,,9.99,9.99,9.99,9.99,2005
+358,2005,Tony Jackson,Iowa,9.25,,33.0,112,4.48,4.48,4.48,4.48,2005
+359,2005,Matt Jones,Arkansas,9.50,,39.5,123,4.20,4.20,4.20,4.20,2005
+360,2005,Dave Kashetta,Boston College,10.88,,35.5,113,4.34,4.34,4.34,4.34,2005
+361,2005,Bo Scaife,Texas,10.13,,32.5,110,4.12,4.12,4.12,4.12,2005
+362,2005,Alex Smith,Stanford,10.00,,,,9.99,9.99,9.99,9.99,2005
+363,2006,Owen Daniels,Wisconsin,9.50,,34.5,114,4.10,4.10,4.10,4.10,2006
+364,2006,Charles Davis,Purdue,10.00,,31.5,108,4.37,4.37,4.37,4.37,2006
+365,2006,Vernon Davis,Maryland,8.75,,42.0,128,4.17,4.17,4.17,4.17,2006
+366,2006,Tim Day,Oregon,9.88,,35.0,109,4.20,4.20,4.20,4.20,2006
+367,2006,Anthony Fasano,Notre Dame,9.50,,33.5,112,4.34,4.34,4.34,4.34,2006
+368,2006,Daniel Fells,UC-Davis,10.25,,29.5,108,4.46,4.46,4.46,4.46,2006
+369,2006,Matt Henshaw,Florida State,9.63,,29.0,111,4.44,4.44,4.44,4.44,2006
+370,2006,Jeff King,Virginia Tech,9.50,,32.5,109,4.09,4.09,4.09,4.09,2006
+371,2006,Joe Klopfenstein,Colorado,10.13,,36.0,112,4.21,4.21,4.21,4.21,2006
+372,2006,Marcedes Lewis,UCLA,10.00,,37.0,118,4.82,4.82,4.82,4.82,2006
+373,2006,Jason Pociask,Wisconsin,9.63,,32.5,115,4.30,4.30,4.30,4.30,2006
+374,2006,Leonard Pope,Georgia,9.25,,37.5,118,4.67,4.67,4.67,4.67,2006
+375,2006,Tony Scheffler,Western Michigan,9.13,,33.5,115,4.01,4.01,4.01,4.01,2006
+376,2006,Quinn Sypniewski,Colorado,9.25,,32.5,114,4.52,4.52,4.52,4.52,2006
+377,2006,David Thomas,Texas,10.25,,37.5,113,4.34,4.34,4.34,4.34,2006
+378,2006,Cooper Wallace,Auburn,9.25,,29.0,105,4.21,4.21,4.21,4.21,2006
+379,2006,T.J. Williams,North Carolina State,9.75,,34.0,111,4.54,4.54,4.54,4.54,2006
+380,2007,Michael Allan,Whitworth (WA),,,36.0,123,4.52,4.52,4.52,4.52,2007
+381,2007,Kevin Boss,Western Oregon,9.63,,35.0,116,4.41,4.41,4.41,4.41,2007
+382,2007,Scott Chandler,Iowa,9.75,,30.0,111,4.32,4.32,4.32,4.32,2007
+383,2007,Daniel Coats,Brigham Young,9.75,,30.0,111,4.43,4.43,4.43,4.43,2007
+384,2007,Jonny Harline,Brigham Young,10.75,,28.5,106,4.68,4.68,4.68,4.68,2007
+385,2007,Clark Harris,Rutgers,9.75,,32.0,112,4.40,4.40,4.40,4.40,2007
+386,2007,Zach Miller,Arizona State,10.38,,34.0,115,4.42,4.42,4.42,4.42,2007
+387,2007,Martrez Milner,Georgia,9.50,,34.0,117,4.49,4.49,4.49,4.49,2007
+388,2007,Joe Newton,Oregon State,10.25,,31.0,109,4.57,4.57,4.57,4.57,2007
+389,2007,Greg Olsen,Miami (FL),10.50,,35.5,114,4.48,4.48,4.48,4.48,2007
+390,2007,Ben Patrick,Delaware,9.88,,34.5,111,4.31,4.31,4.31,4.31,2007
+391,2007,Anthony Pudewell,Nevada,,,25.5,101,4.41,4.41,4.41,4.41,2007
+392,2007,Dante Rosario,Oregon,9.25,,36.0,115,4.47,4.47,4.47,4.47,2007
+393,2007,Chad Upshaw,Buffalo,10.13,,33.5,108,4.58,4.58,4.58,4.58,2007
+394,2008,Gary Barnidge,Louisville,9.75,,31.0,117,4.23,4.23,4.23,4.23,2008
+395,2008,Martellus Bennett,Texas A&M,9.63,,34.0,118,4.53,4.53,4.53,4.53,2008
+396,2008,Adam Bishop,Nevada,,,27.0,113,4.28,4.28,4.28,4.28,2008
+397,2008,John Carlson,Notre Dame,10.13,,30.5,113,4.28,4.28,4.28,4.28,2008
+398,2008,Brad Cottam,Tennessee,10.00,,33.0,,9.99,9.99,9.99,9.99,2008
+399,2008,Kellen Davis,Michigan State,,,28.0,118,4.38,4.38,4.38,4.38,2008
+400,2008,Derek Fine,Kansas,9.50,,29.0,115,4.19,4.19,4.19,4.19,2008
+401,2008,Jermichael Finley,Texas,9.25,,27.5,117,4.38,4.38,4.38,4.38,2008
+402,2008,Joey Haynos,Maryland,10.13,,30.5,123,4.42,4.42,4.42,4.42,2008
+403,2008,Kolo Kapanui,West Texas A&M,10.00,,26.5,107,4.66,4.66,4.66,4.66,2008
+404,2008,Dustin Keller,Purdue,10.38,,38.0,131,4.14,4.14,4.14,4.14,2008
+405,2008,Evan Moore,Stanford,10.25,,27.0,110,4.43,4.43,4.43,4.43,2008
+406,2008,Tom Santi,Virginia,9.38,,36.0,121,4.27,4.27,4.27,4.27,2008
+407,2008,Craig Stevens,California,10.13,,27.5,114,4.31,4.31,4.31,4.31,2008
+408,2008,Darrell Strong,Pittsburgh,10.75,,25.0,110,4.36,4.36,4.36,4.36,2008
+409,2008,Jacob Tamme,Kentucky,9.00,,30.0,109,4.27,4.27,4.27,4.27,2008
+410,2009,Travis Beckum,Wisconsin,,,,,,,,,2009
+411,2009,Jared Bronson,Central Washington,,,32.5,116,4.33,4.33,4.33,4.33,2009
+412,2009,Jared Cook,South Carolina,,,41.0,123,9.99,9.99,9.99,9.99,2009
+413,2009,Davon Drew,East Carolina (NC),,,29.5,113,4.56,4.56,4.56,4.56,2009
+414,2009,Dan Gronkowski,Maryland,,,33.0,122,4.26,4.26,4.26,4.26,2009
+415,2009,Anthony Hill,North Carolina State,,,30.5,107,4.56,4.56,4.56,4.56,2009
+416,2009,Cornelius Ingram,Florida,,,33.0,,4.53,4.53,4.53,4.53,2009
+417,2009,Cameron Morrah,California,,,32.5,115,4.36,4.36,4.36,4.36,2009
+418,2009,Shawn Nelson,Southern Mississippi,,,33.0,115,4.46,4.46,4.46,4.46,2009
+419,2009,Bear Pascoe,Frenso State (CA),,,26.5,107,4.55,4.55,4.55,4.55,2009
+420,2009,Brandon Pettigrew,Oklahoma State,,,33.0,118,4.37,4.37,4.37,4.37,2009
+421,2009,John Phillips,Virginia,,,33.5,112,4.27,4.27,4.27,4.27,2009
+422,2009,Richard Quinn,North Carolina,,,32.5,119,4.62,4.62,4.62,4.62,2009
+423,2009,Kory Sperry,Colorado State,,,33.5,122,4.25,4.25,4.25,4.25,2009
+424,2010,Nate Byham,Pittsburgh,,,29.0,109,,,,,2010
+425,2010,Dorin Dickerson,Pittsburgh,9.75,,43.5,125,4.30,4.30,4.30,4.30,2010
+426,2010,Ed Dickson,Oregon,9.75,,34.0,115,4.59,4.59,4.59,4.59,2010
+427,2010,Jim Dray,Stanford,,,,,9.99,9.99,9.99,9.99,2010
+428,2010,Brody Eldridge,Oklahoma,9.63,,31.5,,9.99,9.99,9.99,9.99,2010
+429,2010,Dedrick Epps,Miami (FL),9.88,,,,9.99,9.99,9.99,9.99,2010
+430,2010,Garrett Graham,Wisconsin,9.50,,34.5,112,4.35,4.35,4.35,4.35,2010
+431,2010,Jimmy Graham,Miami (FL),10.63,,38.5,120,4.45,4.45,4.45,4.45,2010
+432,2010,Jermaine Gresham,Oklahoma,9.63,,35.0,113,4.53,4.53,4.53,4.53,2010
+433,2010,Rob Gronkowski,Arizona,10.75,,,,9.99,9.99,9.99,9.99,2010
+434,2010,Michael Hoomanawanui,Illinois,10.13,,,,9.99,9.99,9.99,9.99,2010
+435,2010,Anthony McCoy,Southern California,,,35.5,113,4.57,4.57,4.57,4.57,2010
+436,2010,Tony Moeaki,Iowa,10.13,,34.0,113,4.42,4.42,4.42,4.42,2010
+437,2010,Colin Peek,Alabama,9.63,,,,9.99,9.99,9.99,9.99,2010
+438,2010,Dennis Pitta,Brigham Young,10.00,,34.0,113,4.17,4.17,4.17,4.17,2010
+439,2010,Andrew Quarless,Penn State,10.25,,32.0,112,9.99,9.99,9.99,9.99,2010
+440,2011,Jordan Cameron,Southern California,9.75,,37.5,119,4.03,4.03,4.03,4.03,2011
+441,2011,Charlie Gantt,Michigan State,9.50,,30.5,112,4.40,4.40,4.40,4.40,2011
+442,2011,Cameron Graham,Louisville,9.63,,31.0,105,4.51,4.51,4.51,4.51,2011
+443,2011,Virgil Green,Nevada,9.25,,42.5,130,4.40,4.40,4.40,4.40,2011
+444,2011,Daniel Hardy,Idaho,10.00,,,,9.99,9.99,9.99,9.99,2011
+445,2011,Rob Housler,Florida Atlantic,9.75,,37.0,117,4.21,4.21,4.21,4.21,2011
+446,2011,Lance Kendricks,Wisconsin,9.63,,34.5,122,4.15,4.15,4.15,4.15,2011
+447,2011,Schuylar Oordt,Northern Iowa,9.88,,36.0,119,4.25,4.25,4.25,4.25,2011
+448,2011,Zach Pianalto,North Carolina,9.63,,32.0,108,4.41,4.41,4.41,4.41,2011
+449,2011,Allen Reisner,Iowa,10.50,,28.0,108,4.59,4.59,4.59,4.59,2011
+450,2011,Weslye Saunders,South Carolina,10.50,,33.5,116,9.99,9.99,9.99,9.99,2011
+451,2011,Lee Smith,Marshall (WV),9.75,,29.0,108,4.28,4.28,4.28,4.28,2011
+452,2011,Luke Stocker,Tennessee,9.75,,33.0,115,4.40,4.40,4.40,4.40,2011
+453,2011,Julius Thomas,Portland State (OR),10.25,,35.5,111,4.31,4.31,4.31,4.31,2011
+454,2011,D.J. Williams,Arkansas,10.38,,33.5,111,4.51,4.51,4.51,4.51,2011
+455,2012,Dwayne Allen,Clemson,9.63,,32.0,110,4.37,4.37,4.37,4.37,2012
+456,2012,Orson Charles,Georgia,9.25,,,,9.99,9.99,9.99,9.99,2012
+457,2012,Michael Egnew,Missouri,9.75,,36.0,131,4.32,4.32,4.32,4.32,2012
+458,2012,Rhett Ellison,Southern California,10.25,,31.5,109,9.99,9.99,9.99,9.99,2012
+459,2012,Coby Fleener,Stanford,10.00,,,,9.99,9.99,9.99,9.99,2012
+460,2012,Chase Ford,Miami (FL),,,,,9.99,9.99,9.99,9.99,2012
+461,2012,Ladarius Green,Louisiana-Lafayette,10.13,,34.5,124,4.47,4.47,4.47,4.47,2012
+462,2012,James Hanna,Oklahoma,9.88,,36.0,122,4.11,4.11,4.11,4.11,2012
+463,2012,Cory Harkey,UCLA,9.38,,26.5,109,4.69,4.69,4.69,4.69,2012
+464,2012,David Paulson,Oregon,10.13,,32.0,110,4.40,4.40,4.40,4.40,2012
+465,2012,DeAngelo Peterson,Louisiana State,9.50,,36.0,121,9.99,9.99,9.99,9.99,2012
+466,2012,Nick Provo,Syracuse,9.50,,,,9.99,9.99,9.99,9.99,2012
+467,2012,Beau Reliford,Florida State,9.00,,,,9.99,9.99,9.99,9.99,2012
+468,2013,Justice Cunningham,South Carolina,10.08,,31.5,116,4.45,4.45,4.45,4.45,2013
+469,2013,Tyler Eifert,Notre Dame,9.18,,35.5,119,4.32,4.32,4.32,4.32,2013
+470,2013,Zach Ertz,Stanford,9.68,,30.5,111,4.47,4.47,4.47,4.47,2013
+471,2013,Gavin Escobar,San Diego State,9.68,,32.0,114,4.31,4.31,4.31,4.31,2013
+472,2013,Joseph Fauria,UCLA,10.78,,,,9.99,9.99,9.99,9.99,2013
+473,2013,Matt Furstenburg,Maryland,8.58,,35.5,115,4.35,4.35,4.35,4.35,2013
+474,2013,Chris Gragg,Arkansas,9.08,,37.5,125,4.51,4.51,4.51,4.51,2013
+475,2013,MarQueis Gray,Minnesota,9.78,,30.0,111,4.30,4.30,4.30,4.30,2013
+476,2013,Nick Kasa,Colorado,9.18,,31.5,113,9.99,9.99,9.99,9.99,2013
+477,2013,Travis Kelce,Cincinnati,,,,,9.99,9.99,9.99,9.99,2013
+478,2013,Philip Lutzenkirchen,Auburn,10.28,,30.5,112,4.35,4.35,4.35,4.35,2013
+479,2013,Vance McDonald,Rice (TX),10.18,,33.5,119,4.53,4.53,4.53,4.53,2013
+480,2013,Chris Pantale,Boston College,10.28,,33.5,110,4.50,4.50,4.50,4.50,2013
+481,2013,Jordan Reed,Florida,10.08,,,,9.99,9.99,9.99,9.99,2013
+482,2013,Mychal Rivera,Tennessee,10.28,,31.0,112,4.43,4.43,4.43,4.43,2013
+483,2013,Dion Sims,Michigan State,10.48,,35.0,112,4.52,4.52,4.52,4.52,2013
+484,2013,Jake Stoneburner,Ohio State,9.38,,34.5,116,4.27,4.27,4.27,4.27,2013
+485,2013,Levine Toilolo,Stanford,10.28,,31.0,113,4.57,4.57,4.57,4.57,2013
+486,2014,Jace Amaro,Texas Tech,9.00,,33.0,116,4.30,4.30,4.30,4.30,2014
+487,2014,Joe Don Duncan,Dixie State (UT),,,,,9.99,9.99,9.99,9.99,2014
+488,2014,Eric Ebron,North Carolina,10.00,,32.0,120,9.99,9.99,9.99,9.99,2014
+489,2014,C.J. Fiedorowicz,Iowa,10.25,,31.5,115,4.26,4.26,4.26,4.26,2014
+490,2014,Crockett Gillmore,Colorado State,10.38,,33.5,120,4.44,4.44,4.44,4.44,2014
+491,2014,Xavier Grimble,Southern California,10.25,,26.1,112,9.99,9.99,9.99,9.99,2014
+492,2014,Nic Jacobs,McNeese State (LA),10.00,,,,9.99,9.99,9.99,9.99,2014
+493,2014,Marcel Jensen,Frenso State (CA),9.88,,35.0,114,4.60,4.60,4.60,4.60,2014
+494,2014,A.C. Leonard,Tennessee State,9.25,,34.0,127,9.99,9.99,9.99,9.99,2014
+495,2014,Colt Lyerla,Oregon,10.25,,39.0,127,9.99,9.99,9.99,9.99,2014
+496,2014,Arthur Lynch,Georgia,10.13,,29.5,115,4.35,4.35,4.35,4.35,2014
+497,2014,Jake Murphy,Utah,10.00,,33.0,113,4.27,4.27,4.27,4.27,2014
+498,2014,Jordan Najvar,Baylor,10.00,,32.5,111,4.47,4.47,4.47,4.47,2014
+499,2014,Troy Niklas,Notre Dame,10.00,,32.0,113,4.55,4.55,4.55,4.55,2014
+500,2014,Richard Rodgers,California,10.13,,31.5,115,4.47,4.47,4.47,4.47,2014
+501,2014,Austin Seferian-Jenkins,Washington,9.75,,,,9.99,9.99,9.99,9.99,2014
+502,2015,Rory Anderson,South Carolina,,,,,,,,,2015
+503,2015,Kennard Backman,Alabama-Birmingham,,,,,9.99,9.99,9.99,9.99,2015
+504,2015,Blake Bell,Oklahoma,10.00,,33.0,116,4.32,4.32,4.32,4.32,2015
+505,2015,E.J. Bibbs,Iowa State,10.25,,,,9.99,9.99,9.99,9.99,2015
+506,2015,Nick Boyle,Delaware,10.38,,30.5,112,4.23,4.23,4.23,4.23,2015
+507,2015,Clay Burton,Florida,,,,,9.99,9.99,9.99,9.99,2015
+508,2015,Gerald Christian,Louisville,10.75,,,,4.70,4.70,4.70,4.70,2015
+509,2015,A.J. Derby,Arkansas,9.50,,,,9.99,9.99,9.99,9.99,2015
+510,2015,Travis Dickson,Louisiana State,,,,,9.99,9.99,9.99,9.99,2015
+511,2015,Ray Hamilton,Iowa,,,,,9.99,9.99,9.99,9.99,2015
+512,2015,Connor Hamlett,Oregon State,,,,,9.99,9.99,9.99,9.99,2015
+513,2015,Kevin Haplea,Florida State,,,,,9.99,9.99,9.99,9.99,2015
+514,2015,Jeff Heuerman,Ohio State,10.13,,,,9.99,9.99,9.99,9.99,2015
+515,2015,Gabe Holmes,Purdue,,,,,9.99,9.99,9.99,9.99,2015
+516,2015,Jesse James,Penn State,9.38,,37.5,121,4.50,4.50,4.50,4.50,2015
+517,2015,Ben Koyack,Notre Dame,10.75,,,,9.99,9.99,9.99,9.99,2015
+518,2015,Tyler Kroft,Rutgers,9.63,,,,9.99,9.99,9.99,9.99,2015
+519,2015,Khari Lee,Bowie State (MD),,,,,9.99,9.99,9.99,9.99,2015
+520,2015,Matt Lengel,Eastern Kentucky,,,,,9.99,9.99,9.99,9.99,2015
+521,2015,Devin Mahina,Brigham Young,,,,,9.99,9.99,9.99,9.99,2015
+522,2015,Mike McFarland,South Florida,,,,,9.99,9.99,9.99,9.99,2015
+523,2015,Nick O'Leary,Florida State,9.38,,30.5,110,4.50,4.50,4.50,4.50,2015
+524,2015,James OShaughnessy,Illinois State,,,,,9.99,9.99,9.99,9.99,2015
+525,2015,Brian Parker,Albany (NY),,,,,9.99,9.99,9.99,9.99,2015
+526,2015,Casey Pierce,Kent State (OH),,,,,9.99,9.99,9.99,9.99,2015
+527,2015,MyCole Pruitt,Southern Illinois,10.25,,38.0,118,4.37,4.37,4.37,4.37,2015
+528,2015,Tyreese Russell,Eastern Michigan,,,,,9.99,9.99,9.99,9.99,2015
+529,2015,Wes Saxton,South Alabama,9.63,,36.0,119,4.49,4.49,4.49,4.49,2015
+530,2015,Faysal Shafaat,Tennessee-Chattanooga,,,,,9.99,9.99,9.99,9.99,2015
+531,2015,Jean Sifrin,Massachusetts,11.00,,33.0,114,4.60,4.60,4.60,4.60,2015
+532,2015,Randall Telfer,Southern California,9.63,,,,9.99,9.99,9.99,9.99,2015
+533,2015,Eric Tomlinson,Texas-El Paso,10.00,,30.5,110,4.54,4.54,4.54,4.54,2015
+534,2015,Westlee Tonga,Utah,,,,,9.99,9.99,9.99,9.99,2015
+535,2015,Will Tye,Stony Brook (NY),,,,,9.99,9.99,9.99,9.99,2015
+536,2015,C.J. Uzomah,Auburn,,,,,9.99,9.99,9.99,9.99,2015
+537,2015,Brian Vogler,Alabama,,,,,9.99,9.99,9.99,9.99,2015
+538,2015,Clive Walford,Miami (FL),10.25,,35.0,120,4.57,4.57,4.57,4.57,2015
+539,2015,Maxx Williams,Minnesota,10.38,,34.5,117,4.37,4.37,4.37,4.37,2015
+540,2016,Jerell Adams,South Carolina,9.75,,32.5,117,4.31,4.31,4.31,4.31,2016
+541,2016,Stephen Anderson,California,9.25,,38.0,119,9.99,9.99,9.99,9.99,2016
+542,2016,Ben Braunecker,Harvard,9.50,,35.5,121,4.20,4.20,4.20,4.20,2016
+543,2016,Thomas Duarte,UCLA,10.00,,33.5,118,4.24,4.24,4.24,4.24,2016
+544,2016,David Grinnage,North Carolina State,,,29.5,106,9.99,9.99,9.99,9.99,2016
+545,2016,Temarrick Hemingway,South Carolina State,,,30.5,115,4.31,4.31,4.31,4.31,2016
+546,2016,Hunter Henry,Arkansas,9.25,,,,9.99,9.99,9.99,9.99,2016
+547,2016,Tyler Higbee,Western Kentucky,10.25,,,,9.99,9.99,9.99,9.99,2016
+548,2016,Austin Hooper,Stanford,10.63,,33.0,117,4.32,4.32,4.32,4.32,2016
+549,2016,Ryan Malleck,Virginia Tech,9.38,,34.5,121,4.33,4.33,4.33,4.33,2016
+550,2016,Jake McGee,Florida,9.63,,,,9.99,9.99,9.99,9.99,2016
+551,2016,David Morgan,Texas-San Antonio,10.50,,30.0,115,4.19,4.19,4.19,4.19,2016
+552,2016,Beau Sandland,Montana State,10.13,,35.0,124,4.33,4.33,4.33,4.33,2016
+553,2016,Nick Vannett,Ohio State,10.00,,30.5,111,4.20,4.20,4.20,4.20,2016
+554,2016,Bryce Williams,East Carolina (NC),9.63,,29.5,111,4.53,4.53,4.53,4.53,2016
+555,2017,Antony Auclair,Laval,,,,,4.45,4.45,4.45,4.45,2017
+556,2017,Pharaoh Brown,Oregon,10.38,,34.0,,4.62,4.62,4.62,4.62,2017
+557,2017,Jake Butt,Michigan,10.00,,,,9.99,9.99,9.99,9.99,2017
+558,2017,Cethan Carter,Nebraska,9.00,,,,4.47,4.47,4.47,4.47,2017
+559,2017,Darrell Daniels,Washington,10.25,,32.0,116,4.47,4.47,4.47,4.47,2017
+560,2017,Evan Engram,Mississippi,10.00,,36.0,125,4.23,4.23,4.23,4.23,2017
+561,2017,Gerald Everett,South Alabama,8.50,,37.5,126,4.33,4.33,4.33,4.33,2017
+562,2017,Cole Hikutini,Louisville,10.00,,,,4.34,4.34,4.34,4.34,2017
+563,2017,Bucky Hodges,Virginia Tech,10.13,,39.0,134,4.45,4.45,4.45,4.45,2017
+564,2017,O.J. Howard,Alabama,10.00,,30.0,121,4.16,4.16,4.16,4.16,2017
+565,2017,Blake Jarwin,Oklahoma State,,,,,4.33,4.33,4.33,4.33,2017
+566,2017,George Kittle,Iowa,9.25,,35.0,132,4.59,4.59,4.59,4.59,2017
+567,2017,Jordan Leggett,Clemson,10.38,,33.0,114,4.33,4.33,4.33,4.33,2017
+568,2017,David Njoku,Miami (FL),10.00,,37.5,133,4.34,4.34,4.34,4.34,2017
+569,2017,Scott Orndoff,Pittsburgh,10.00,,27.0,112,4.45,4.45,4.45,4.45,2017
+570,2017,Hayden Plinke,Texas-El Paso,10.00,,28.0,109,4.59,4.59,4.59,4.59,2017
+571,2017,Michael Roberts,Toledo,11.50,,30.0,110,4.51,4.51,4.51,4.51,2017
+572,2017,Eric Saubert,Drake (IA),10.38,,33.0,121,9.99,9.99,9.99,9.99,2017
+573,2017,Adam Shaheen,Ashland (OH),9.63,,32.5,121,4.38,4.38,4.38,4.38,2017
+574,2017,Jonnu Smith,Florida International,9.25,,38.0,127,4.18,4.18,4.18,4.18,2017
+575,2017,Jeremy Sprinkle,Arkansas,10.75,,29.0,116,4.33,4.33,4.33,4.33,2017
