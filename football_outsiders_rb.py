@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 
 #rushing data frame
-headers = ['Player', 'Team', 'DYAR', 'DVOA', 'Rushes', 'EYds', 'TD', 'Suc_rate', 'Year']
+headers = ['Player', 'Team', 'DYAR', 'DVOA', 'Rushes', 'Yards','EfYds', 'TD', 'Suc_rate', 'Year']
 df_rush = pd.DataFrame(columns = headers)
 #columns for dataframe
 players = []
@@ -12,19 +12,22 @@ team = []
 dyar = []
 dvoa = []
 rushes = []
+yards = []
 eyards = []
 td = []
 suc_pct = []
 df_years = []
 
 #receiving data frame
-headers_2 = ['Player', 'Team', 'DYAR_receiving', 'DVOA_receiving', 'EYds_receiving', 'TD_receiving', 'Catch_rate', 'Year']
+headers_2 = ['Player', 'Team', 'DYAR', 'DVOA', 'Targets', 'Yards','EfYds', 'TD_', 'Catch_rate', 'Year']
 df_rec = pd.DataFrame(columns = headers_2)
 #columns for dataframe
 players_2 = []
 team_2 = []
 dyar_2 = []
 dvoa_2 = []
+targets = []
+yards_2 = []
 eyards_2 = []
 td_2 = []
 catch_pct = []
@@ -60,6 +63,7 @@ for year in years:
 					dyar.append(cells[2].find(text = True))
 					dvoa.append(cells[6].find(text = True))
 					rushes.append(cells[9].find(text = True))
+					yards.append(cells[10].find(text = True))
 					eyards.append(cells[11].find(text = True))
 					td.append(cells[12].find(text = True))
 					suc_pct.append(cells[14].find(text = True))
@@ -78,6 +82,7 @@ for year in years:
 					dyar.append(cells[2].find(text = True))
 					dvoa.append(cells[4].find(text = True))
 					rushes.append(cells[6].find(text = True))
+					yards.append(cells[7].find(text = True))
 					eyards.append(cells[8].find(text = True))
 					td.append(cells[9].find(text = True))
 					suc_pct.append(np.nan)
@@ -96,6 +101,8 @@ for year in years:
 					team_2.append(cells[1].find(text = True))
 					dyar_2.append(cells[2].find(text = True))
 					dvoa_2.append(cells[6].find(text = True))
+					targets.append(cells[9].find(text = True))
+					yards_2.append(cells[10].find(text = True))
 					eyards_2.append(cells[11].find(text = True))
 					td_2.append(cells[12].find(text = True))
 					catch_pct.append(cells[13].find(text = True))
@@ -114,6 +121,8 @@ for year in years:
 					team_2.append(cells[1].find(text = True))
 					dyar_2.append(cells[2].find(text = True))
 					dvoa_2.append(cells[4].find(text = True))
+					targets.append(cells[6].find(text = True))
+					yards_2.append(cells[7].find(text = True))
 					eyards_2.append(cells[8].find(text = True))
 					td_2.append(cells[9].find(text = True))
 					catch_pct.append(cells[10].find(text = True))
@@ -125,7 +134,8 @@ df_rush["Team"] = team
 df_rush["DYAR"] = dyar
 df_rush["DVOA"] = dvoa
 df_rush["Rushes"] = rushes
-df_rush["EYds"] = eyards
+df_rush["Yds"] = yards
+df_rush["EfYds"] = eyards
 df_rush["TD"] = td
 df_rush["Suc_rate"] = suc_pct
 df_rush["Year"] = df_years
@@ -133,10 +143,12 @@ df_rush["Year"] = df_years
 
 df_rec["Player"] = players_2
 df_rec["Team"] = team_2
-df_rec["DYAR_receiving"] = dyar_2
-df_rec["DVOA_receiving"] = dvoa_2
-df_rec["EYds_receiving"] = eyards_2
-df_rec["TD_receiving"] = td_2
+df_rec["DYAR"] = dyar_2
+df_rec["DVOA"] = dvoa_2
+df_rec["Targets"] = targets
+df_rec["Yds"] = yards_2
+df_rec["EfYds"] = eyards_2
+df_rec["TD"] = td_2
 df_rec["Catch_rate"] = catch_pct
 df_rec["Year"] = df_years_2
 

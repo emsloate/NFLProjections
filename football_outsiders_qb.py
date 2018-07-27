@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import numpy as np
 
-headers = ['Player', 'Team', 'DYAR', 'DVOA', 'QBR', 'Passes','EYds', 'TD', 'INT', 'C%', 'Year']
+headers = ['Player', 'Team', 'DYAR', 'DVOA', 'QBR', 'Passes','Yards','EfYds', 'TD', 'INT', 'C%', 'Year']
 df = pd.DataFrame(columns = headers)
 #columns for dataframe
 players = []
@@ -12,6 +12,7 @@ dyar = []
 dvoa = []
 qbr = []
 passes = []
+yards = []
 eyards = []
 td = []
 ints = []
@@ -48,6 +49,7 @@ for year in years:
 			dyar.append(cells[2].find(text = True))
 			dvoa.append(cells[6].find(text = True))
 			passes.append(cells[9].find(text = True))
+			yards.append(cells[10].find(text = True))
 			eyards.append(cells[11].find(text = True))
 			td.append(cells[12].find(text = True))
 			ints.append(cells[15].find(text = True))
@@ -61,6 +63,7 @@ for year in years:
 			dvoa.append(cells[6].find(text = True))
 			qbr.append(cells[9].find(text = True))
 			passes.append(cells[11].find(text = True))
+			yards.append(cells[12].find(text = True))
 			eyards.append(cells[13].find(text = True))
 			td.append(cells[14].find(text = True))
 			ints.append(cells[17].find(text = True))
@@ -80,6 +83,7 @@ for year in years:
 			dvoa.append(cells[4].find(text = True))
 			qbr.append(np.nan)
 			passes.append(cells[6].find(text = True))
+			yards.append(cells[7].find(text = True))
 			eyards.append(cells[8].find(text = True))
 			td.append(cells[9].find(text = True))
 			ints.append(cells[12].find(text = True))
@@ -92,6 +96,7 @@ for year in years:
 			dvoa.append(cells[4].find(text = True))
 			qbr.append(cells[6].find(text = True))
 			passes.append(cells[7].find(text = True))
+			yards.append(cells[8].find(text = True))
 			eyards.append(cells[9].find(text = True))
 			td.append(cells[10].find(text = True))
 			ints.append(cells[13].find(text = True))
@@ -104,7 +109,8 @@ df["Team"] = team
 df["DYAR"] = dyar
 df["DVOA"] = dvoa
 df["Passes"] = passes
-df["EYds"] = eyards
+df["Yds"] = yards
+df["EfYds"] = eyards
 df["QBR"] = qbr
 df["TD"] = td
 df["INT"] = ints

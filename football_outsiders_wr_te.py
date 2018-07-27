@@ -6,7 +6,7 @@ import numpy as np
 
 
 def receiving_data(position):
-	headers = ['Player', 'Team', 'DYAR', 'DVOA', 'Passes_To', 'EYds', 'TD', 'Catch_rate', 'Year']
+	headers = ['Player', 'Team', 'DYAR', 'DVOA', 'Targets', 'Yds', 'EfYds', 'TD', 'Catch_rate', 'Year']
 	df = pd.DataFrame(columns = headers)
 	#columns for dataframe
 	players = []
@@ -14,6 +14,7 @@ def receiving_data(position):
 	dyar = []
 	dvoa = []
 	passes = []
+	yards = []
 	eyards = []
 	td = []
 	catch_pct = []
@@ -46,6 +47,7 @@ def receiving_data(position):
 				dyar.append(cells[2].find(text = True))
 				dvoa.append(cells[6].find(text = True))
 				passes.append(cells[9].find(text = True))
+				yards.append(cells[10].find(text = True))
 				eyards.append(cells[11].find(text = True))
 				td.append(cells[12].find(text = True))
 				catch_pct.append(cells[13].find(text = True))
@@ -63,6 +65,7 @@ def receiving_data(position):
 				dyar.append(cells[2].find(text = True))
 				dvoa.append(cells[4].find(text = True))
 				passes.append(cells[6].find(text = True))
+				yards.append(cells[7].find(text = True))
 				eyards.append(cells[8].find(text = True))
 				td.append(cells[9].find(text = True))
 				catch_pct.append(cells[10].find(text = True))
@@ -73,8 +76,9 @@ def receiving_data(position):
 	df["Team"] = team
 	df["DYAR"] = dyar
 	df["DVOA"] = dvoa
-	df["Passes_To"] = passes
-	df["EYds"] = eyards
+	df["Targets"] = passes
+	df["Yds"] = yards
+	df["EfYds"] = eyards
 	df["TD"] = td
 	df["Catch_rate"] = catch_pct
 	df["Year"] = df_years
