@@ -86,5 +86,5 @@ def receiving_data(position):
 
 	df.to_csv('{}data.csv'.format(position))
 
-receiving_data("wr")
-receiving_data("te")
+receiving_data("../Data/wr")
+receiving_data("../Data/te")

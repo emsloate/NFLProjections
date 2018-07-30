@@ -67,7 +67,7 @@ def get_birthdays(position):
 
 
 	birthday_df = pd.DataFrame({"Player: ":visited,"Birthdate: ":bdays })
-	birthday_df.to_csv("{}bdays.csv".format(position))
+	birthday_df.to_csv("../Data/{}bdays.csv".format(position))
 
 get_birthdays("qb")
 get_birthdays("wr")

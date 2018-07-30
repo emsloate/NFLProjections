@@ -24,4 +24,4 @@ for row in rows:
 
 df = pd.DataFrame({"Pick":picks,"EV":ev}, index = picks)
 
-df.to_csv("draftevs.csv")
+df.to_csv("../Data/draftevs.csv")

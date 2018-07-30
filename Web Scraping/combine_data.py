@@ -62,7 +62,7 @@ def combine_data(position):
 	df['Shuttle'] = shuttle
 	df['Year'] = df_years
 
-	df.to_csv("{}_combine_data.csv".format(position))
+	df.to_csv("../Data/{}_combine_data.csv".format(position))
 
 combine_data("RB")
 combine_data("QB")

@@ -118,7 +118,7 @@ df["C%"] = comp_pct
 df["Year"] = df_years
 
 
-df.to_csv('qbdata.csv')
+df.to_csv('../Data/qbdata.csv')
 		
 
 

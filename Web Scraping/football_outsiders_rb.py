@@ -152,6 +152,6 @@ df_rec["TD"] = td_2
 df_rec["Catch_rate"] = catch_pct
 df_rec["Year"] = df_years_2
 
-df_rush.to_csv('rbdata_rush.csv')
-df_rec.to_csv('rbdata_rec.csv')
+df_rush.to_csv('../Data/rbdata_rush.csv')
+df_rec.to_csv('../Data/rbdata_rec.csv')
 
